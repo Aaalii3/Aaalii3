@@ -39,7 +39,7 @@
 <body>
   <div>
     <div class="heart">❤️</div>
-    <h1>To Meriem Sabati</h1>
+    <h1>To rory</h1>
     <p>You are the light in my world. I love you more every day.</p>
     <div class="heart">❤️</div>
   </div>
